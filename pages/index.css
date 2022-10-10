@@ -20,7 +20,7 @@ body{
 
 @media (min-width:960px) {
     .welcome-section{   
-        height: calc(97vh - 98px);
+        height: calc(97vh - 140px);
     }
 }
 
